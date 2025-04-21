@@ -1,0 +1,4 @@
+Miketex
+Strawberry Pearl
+VS Latex Workshop extension #Optional
+Any Latex Editor
